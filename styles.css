@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(171,171,176);
+}
+
+h1 {
+    
+    line-height: 80px;
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 20rpx;
+    font-size: 80px;
+}
+
+.section-two h1 {
+    transform: scale(-1, 1);
+    /* margin-left: -90px; */
+    color:white
+}
+
+.section-one, .section-two {
+    display: inline-block;
+    /* margin-left: 100px;
+    margin-top: 12px; */
+;
+}
+
+.main {
+    width:1230px;
+    /* border:1px solid white; */
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
